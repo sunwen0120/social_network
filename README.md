@@ -1,2 +1,2 @@
 # social_network
-## collection of course social network homework
+collection of course social network homework
